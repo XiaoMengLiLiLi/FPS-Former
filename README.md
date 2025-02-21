@@ -1,4 +1,4 @@
-# [AAAI2025] Boosting ViT-based MRI Reconstruction from the Perspectives of  Frequency Modulation, Spatial Purification, and Scale Diversification [![arXiv](https://img.shields.io/badge/arXiv-2303.02506-b31b1b.svg)](https://arxiv.org/abs/2412.10776)
+# [AAAI2025 Oral] Boosting ViT-based MRI Reconstruction from the Perspectives of  Frequency Modulation, Spatial Purification, and Scale Diversification [![arXiv](https://img.shields.io/badge/arXiv-2303.02506-b31b1b.svg)](https://arxiv.org/abs/2412.10776)
 
 ViTs in MRI reconstruction struggle with high-frequency information loss, irrelevant token interactions, and limited multi-scale feature modeling. To tackle these issues, we propose FPS-Former, a powerful ViT-based framework for effective MRI reconstruction. 
 
