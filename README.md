@@ -6,7 +6,7 @@ ViTs in MRI reconstruction struggle with high-frequency information loss, irrele
 
 * **If you find this work helpful, please give us a :star2: to receive the updation !**
 * **` Dec. 10th, 2024`:** FPS-Former is accepted by AAAI2025.
-* **We are sorting the code** 🔥🔥🔥
+* **The code is updated** 🔥🔥🔥
 
 ## Overview
 
